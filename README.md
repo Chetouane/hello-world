@@ -1,2 +1,3 @@
 # hello-world
-just a btest
+just a test
+ceci est ammusant et intérissant
